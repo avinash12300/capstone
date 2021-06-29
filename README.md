@@ -56,7 +56,7 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 ** You can visit the Protoflio here.
 
 
-![Desktop and mobile-view](https://github.com/NohaaAa/Coursera-Web-Design-for-Everybody-Capstone-Project/blob/master/Screenshots/portfolio.gif)
+![Desktop and mobile-view](https://github.com/avinash12300/capstone/blob/main/Screenshots/portfolio.gif)
 
 
 
